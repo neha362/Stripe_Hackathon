@@ -1,0 +1,119 @@
+{
+  "version": 1,
+  "project": {
+    "catalog": "prod",
+    "initializedAt": "2026-09-16T23:36:40.076Z",
+    "merchantDisplayName": null,
+    "merchantId": "acct_1UGSGz1ybLjq01PQ",
+    "projectId": "project_61VPqKt2hZ81gbIE116VPqEL0JSQELibR0EB52F9k4hs",
+    "projectName": "Model_Security_Dashboard"
+  },
+  "providers": {
+    "posthog": {
+      "accountRequestId": "facctrq_61VPqQObgeBepnkCQ16VPqEL0JSQELibR0EB52F9k8UK",
+      "configuration": {
+        "region": "US",
+        "organization_name": "Model_Security_Dashboard"
+      },
+      "linkedAt": "2026-09-16T23:42:24.366Z",
+      "providerId": "prvdr_61UGMHNyOleb3A55m5Pg8",
+      "providerName": "PostHog",
+      "redirectUrl": null,
+      "requestedAt": "2026-09-16T23:42:24.366Z",
+      "status": "complete"
+    },
+    "supabase": {
+      "accountRequestId": "fprvcnn_61VPqIt5zuF6Tt34b16VPqEL0JSQELibR0EB52F9kR4K",
+      "configuration": {},
+      "linkedAt": "2026-09-16T23:34:35.787Z",
+      "providerId": "prvdr_61UIXYHdsyF69pZbG52n2",
+      "providerName": "Supabase",
+      "redirectUrl": null,
+      "requestedAt": "2026-09-16T23:34:35.787Z",
+      "status": "complete"
+    },
+    "vercel": {
+      "accountRequestId": "fprvcnn_61VPqJhSr2G8bJVSP16VPqEL0JSQELibR0EB52F9kHPU",
+      "configuration": {},
+      "linkedAt": "2026-09-16T23:35:25.203Z",
+      "providerId": "prvdr_61ULUAr4zlQgZkvXY5LsG",
+      "providerName": "Vercel",
+      "redirectUrl": null,
+      "requestedAt": "2026-09-16T23:35:25.203Z",
+      "status": "complete"
+    }
+  },
+  "resources": {
+    "dashboard": {
+      "configuration": {
+        "name": "model-security-dashboard"
+      },
+      "createdAt": "2026-09-16T23:42:33.278Z",
+      "lastRevealedAt": "2026-09-16T23:42:33.819Z",
+      "lastStatus": "complete",
+      "name": "dashboard",
+      "providerId": "prvdr_61ULUAr4zlQgZkvXY5LsG",
+      "providerName": "Vercel",
+      "resourceId": "fres_61VPqQYxP4gkrDRZP16VPqEL0JSQELibR0EB52F9kD1M",
+      "serviceId": "project"
+    },
+    "metrics-db": {
+      "configuration": {
+        "name": "Model_Security_Dashboard",
+        "region": "americas"
+      },
+      "createdAt": "2026-09-16T23:43:07.525Z",
+      "lastRevealedAt": "2026-09-16T23:46:51.368Z",
+      "lastStatus": "complete",
+      "name": "metrics-db",
+      "providerId": "prvdr_61UIXYHdsyF69pZbG52n2",
+      "providerName": "Supabase",
+      "resourceId": "fres_61VPqQnvrGbsAS4h316VPqEL0JSQELibR0EB52F9k5M8",
+      "serviceId": "project"
+    },
+    "posthog-plan": {
+      "configuration": {},
+      "createdAt": "2026-09-16T23:42:27.212Z",
+      "lastRevealedAt": "2026-09-16T23:42:27.584Z",
+      "lastStatus": "complete",
+      "name": "posthog-plan",
+      "providerId": "prvdr_61UGMHNyOleb3A55m5Pg8",
+      "providerName": "PostHog",
+      "resourceId": "fres_61VPqQSqmHZAOpQEy16VPqEL0JSQELibR0EB52F9kLBA",
+      "serviceId": "free"
+    },
+    "security-metrics": {
+      "configuration": {},
+      "createdAt": "2026-09-16T23:43:12.384Z",
+      "lastRevealedAt": "2026-09-16T23:43:12.745Z",
+      "lastStatus": "complete",
+      "name": "security-metrics",
+      "providerId": "prvdr_61UGMHNyOleb3A55m5Pg8",
+      "providerName": "PostHog",
+      "resourceId": "fres_61VPqRCrLjTWED2Q216VPqEL0JSQELibR0EB52F9k4KG",
+      "serviceId": "analytics"
+    },
+    "supabase-plan": {
+      "configuration": {},
+      "createdAt": "2026-09-16T23:42:03.237Z",
+      "lastRevealedAt": "2026-09-16T23:42:03.460Z",
+      "lastStatus": "complete",
+      "name": "supabase-plan",
+      "providerId": "prvdr_61UIXYHdsyF69pZbG52n2",
+      "providerName": "Supabase",
+      "resourceId": "fres_61VPqQ0JCQuZkKBZ816VPqEL0JSQELibR0EB52F9kW1g",
+      "serviceId": "free"
+    },
+    "vercel-plan": {
+      "configuration": {},
+      "createdAt": "2026-09-16T23:42:08.144Z",
+      "lastRevealedAt": "2026-09-16T23:42:08.447Z",
+      "lastStatus": "complete",
+      "name": "vercel-plan",
+      "providerId": "prvdr_61ULUAr4zlQgZkvXY5LsG",
+      "providerName": "Vercel",
+      "resourceId": "fres_61VPqQAx8JsfFWk5816VPqEL0JSQELibR0EB52F9k3Hk",
+      "serviceId": "hobby"
+    }
+  }
+}

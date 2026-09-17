@@ -1,0 +1,36 @@
+{
+  "version": "v3",
+  "dashboard": {
+    "org_id": "nyOYfxdkhBbSeU7MvhBsBQDXb+slUJfVpHoGOHy3LL6uqTJHB16H/Upupn1bClLA+EsP/0r3ux2co/0=",
+    "project_id": "aJrAlx9bcaESZNUE8VYjuqN9vj0DXREFWJZgLT7uTjnPq2KXq9FmDfscLB8GJaReF1O0o3lZQhKqxJlBXaQ=",
+    "project_link": "AgmKxUOdx0U6s5DMe5So8eHmFiaKtNrsTxmYi01ad/UJMHoS7da85b/LALkXTfKAvG53XuP5ylR7+8sGUOvOo67YQVGLvTWJob+bpEqHaWEV5JsIfM/IJD8bimETQ4Q7blGPTWjC6WAALS8S3hyNu6xk/6Y=",
+    "project_url": "RKZWw9lpvlZ6zvk0c095Z/JhLJPPj4e6o7P34r8r7LH5TB4KarSbVtU/tK1z31dVngDeybxzgUXyarNJ6tQvvJik3oQT0o+i/suyfSpr6uBSTmqkdtF6MX+DEw==",
+    "token": "xFoCpu8jC2EFNjBp4/X+onDbAJbHZ1kcV6zPV2y9teavVzoJcRMuqSGGOtI68OJC1stCH/lwiWIhTYz8jfUPoge3GhSO04ol3ZxggbzRB8w4qkqXN517H/Em"
+  },
+  "metrics-db": {
+    "db_pass": "K/fvgNUX49K4v5a2YMrta8ZAQSjGk7UKcgbOuqUBsEJWDrUx1N3DmvTzA+IY6w==",
+    "db_url": "nlI+RC4e6T9Qx2W13RiVzoaX04wRGxvUfA/TG1hRkqHaWEtNEUE2h15ePfepdwSZf1t73uh2tWo54hRgdCZnI2N50SiyJ6NRIDWeMckRveBRNy/OXmCBYpR1tWnDYyefiZHXgHYhNrdiF4Fl5INpYo2yMA7f",
+    "pooler_url": "gCiXYNQ9lNSDSYv6aMaei7zZguNu4SDzB+Wv+OM2a5PGvjvDEoSpvJuZacRh2j7cudhQ4KVLju+hFhXnMCJV922trIgUdN5XmnnGY/VrntK740r+3GC/wUIdL+idp2pxKysdYM76IiEu2EIhf2Sf8bR3kic0gRTkjkIjuCCda7umO6gSnuw0H/mBQwZ7U0MIH+lF0MncMbs=",
+    "project_ref": "hJmE+2BIBq7EU+jpyOsbBFvzB0MdJl3QPpKtGt7G0Yl7KzyGdaC0PaU9V7Ik/LCUjkM=",
+    "project_url": "ZpdmIKyYp/9S4CEHTtRXkiZBAnLel7RdBPOIkey+05yksLCRmvMyjX346E0eoPnEZ5N0qXa29NUoNWduQ814aX8HjE9C1g=="
+  },
+  "posthog-plan": {
+    "api_key": "u6mHfWkOK8N6Jg/7GkwQNSarLzby7Dz2o7OweeWO1DMRb4Onkb3nIdrl2sJZC4zXsbSppgg6RwGt6AiXgIR9WhwfMyUU7O3bmV2xf0fc",
+    "host": "JOKdgHtAtfEi7Z5I9e31JR2MruyGja3a/M6T8QXU5GdHuRYsfqF340wz8LW0pRUVGFoRqg==",
+    "personal_api_key": "PjNuMMiV44VvcoACSorXQDlGH+3GyhMrOLBt1RAxT3jduc2Jca/mowz5HaUsbongWuj+AxOC/UI3lUNDaqorUDlIBz/ha0S2B7zQTkGg+EDyNg=="
+  },
+  "security-metrics": {
+    "api_key": "cDnPpNWYupp8WW8UJS0lZTcA/jdwzr+dUyXPVo4CYy3qqSoZFgrFcUodBTiDRId3JoEvJ8JLS+g7/lj2sUhD5thxMvt4JHwOx/FY8wBN",
+    "host": "ZyHOU8Im/Hkf4NcJIXKVQ5aisoT4xyqUUvF2HvUvwQ5O1WSvoH/44Pn6hm/QXbI45lkqoA==",
+    "personal_api_key": "7fKjjrGwq0pEqYBXFuEiTuxygOuCRMEmr2/5P2VDLmuUPWNYA9VAh2PhLw6Q5cf86zIuipeqfiHFebYjYLSBoLvET0QGOaz3txyt/e08qB1D8w=="
+  },
+  "supabase-plan": {
+    "org_slug": "pgwYeDq9/sfZnGPwQpeN80pRPrdZQ4zP4+Sxf+uee51udPTtL3f0jwQAUys6YsDcoVI=",
+    "plan": "UgaCGREm0SHoiglgNTQbqVQ385iUCxww2OULZUQhYOnD2Q=="
+  },
+  "vercel-plan": {
+    "plan": "7aNAzBpqDgEK6b3KAxiyEkjcWgonWRBlngrDXN001oV7yXg=",
+    "team_id": "rEBZfAHKdJy2y45DmwM+htxo0c9H/Hs1drmJdn1z7lvotRy9A/iUSUBv4RqUG7ibFRGBhEF3MEfzvQg=",
+    "team_url": "G+BezPT+9ZaStnQAD2bdaQNf5GP6WcXpfmYG4fQv2+WbxTRDb+y7lzAASkId1QbOmqHW+H2BS23Dn+kVZmn4x73o"
+  }
+}
