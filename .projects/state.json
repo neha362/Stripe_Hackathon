@@ -1,0 +1,46 @@
+{
+  "version": 1,
+  "providers": {
+    "posthog": {
+      "name": "PostHog"
+    },
+    "supabase": {
+      "name": "Supabase"
+    },
+    "vercel": {
+      "name": "Vercel"
+    }
+  },
+  "resources": {
+    "dashboard": {
+      "name": "dashboard",
+      "providerName": "Vercel",
+      "serviceId": "project"
+    },
+    "metrics-db": {
+      "name": "metrics-db",
+      "providerName": "Supabase",
+      "serviceId": "project"
+    },
+    "posthog-plan": {
+      "name": "posthog-plan",
+      "providerName": "PostHog",
+      "serviceId": "free"
+    },
+    "security-metrics": {
+      "name": "security-metrics",
+      "providerName": "PostHog",
+      "serviceId": "analytics"
+    },
+    "supabase-plan": {
+      "name": "supabase-plan",
+      "providerName": "Supabase",
+      "serviceId": "free"
+    },
+    "vercel-plan": {
+      "name": "vercel-plan",
+      "providerName": "Vercel",
+      "serviceId": "hobby"
+    }
+  }
+}
